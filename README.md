@@ -3,7 +3,7 @@
 ```
 Functional facial recognition with navigation assist through obstacle detection
 ```
-!(5.png)
+![](5.png)
 
 ## INTRODUCTION
 
@@ -83,14 +83,14 @@ NodeMCU are used . The Ultrasonic sensor and buzzer are connected with
 the NodeMCU and the NodeMCU is connected to a power supply (Here we
 used a power bank).
 
-!(4.png)
+![](4.png)
 
 2. **Face Detection** - For tasks such as uploading sketches, configuring settings,
 and monitoring the output of the ESP32 Cam on a computer, an FTDI
 adapter is required to be connected with the ESP32 Cam. The connections
 are made as follows:
 
-!(3.png)
+![](3.png)
 
 #### GOGGLE DESIGN
 
@@ -100,7 +100,7 @@ weight distribution, and user comfort in the future. Mounting options for the
 ultrasonic sensor and ESP32 Cam are to be incorporated into the design, ensuring
 proper alignment and field of view.
 
-!(2.png)
+![](2.png)
 
 ## OBSTACLE DETECTION
 
@@ -136,7 +136,7 @@ HCSR04micropythondriver-
 
 ## Face recognition
 
-(1.png)
+![](1.png)
 
 #### ESP 32 CAM FEATURES
 
